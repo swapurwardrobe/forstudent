@@ -48,14 +48,6 @@ Mở http://localhost:3000. Express phục vụ cả giao diện và API.
 
 Offer đang lưu trong bộ nhớ nên sẽ mất khi server khởi động lại. Muốn lưu thật cần thêm database.
 
-## Deploy lên Netlify
-
-1. Đẩy project lên GitHub, vào Netlify chọn **Add new site → Import from Git**.
-2. Netlify đọc `netlify.toml`: publish thư mục `frontend`, chạy API bằng function trong `netlify/functions`.
-3. Sau khi deploy, kiểm tra `https://<tên-site>.netlify.app/api/health`.
-
-Lưu ý: Netlify không chạy server Express liên tục. File `netlify/functions/api.js` bọc Express thành serverless function, nên dữ liệu lưu trong bộ nhớ không được giữ giữa các lần gọi.
-
 ## Nhóm thực hiện
 
 Nhóm 8, môn TINH314, Đại học Ngoại thương.
