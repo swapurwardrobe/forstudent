@@ -1,0 +1,224 @@
+[
+  {
+    "id": 0,
+    "name": "Áo Polo thể thao",
+    "category": "Quần áo/Phụ kiện",
+    "condition": 90,
+    "location": "KTX Khu A – Bách Khoa",
+    "owner": {
+      "name": "Minh Anh",
+      "rating": 4.9,
+      "university": "Bách Khoa"
+    },
+    "wantedItem": "Balo hoặc túi đeo chéo",
+    "image": "images/0.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Áo khoác thể thao",
+    "category": "Quần áo/Phụ kiện",
+    "condition": 85,
+    "location": "KTX Khu B – Ngoại Thương",
+    "owner": {
+      "name": "Hoàng Nam",
+      "rating": 4.8,
+      "university": "Ngoại Thương"
+    },
+    "wantedItem": "Giày thể thao",
+    "image": "images/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bàn học gỗ gấp",
+    "category": "Đồ KTX",
+    "condition": 92,
+    "location": "KTX Mễ Trì – Quốc Gia",
+    "owner": {
+      "name": "Quang Huy",
+      "rating": 4.8,
+      "university": "Quốc Gia"
+    },
+    "wantedItem": "Ghế xoay",
+    "image": "images/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Boot cao gót da lộn",
+    "category": "Quần áo/Phụ kiện",
+    "condition": 80,
+    "location": "Cổng Y Hà Nội",
+    "owner": {
+      "name": "Lan Chi",
+      "rating": 4.9,
+      "university": "Y Hà Nội"
+    },
+    "wantedItem": "Váy hoặc giày",
+    "image": "images/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ghế xoay văn phòng",
+    "category": "Đồ KTX",
+    "condition": 88,
+    "location": "KTX Khu A – Bách Khoa",
+    "owner": {
+      "name": "Minh Anh",
+      "rating": 4.9,
+      "university": "Bách Khoa"
+    },
+    "wantedItem": "Bàn học gỗ",
+    "image": "images/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Túi đeo chéo",
+    "category": "Quần áo/Phụ kiện",
+    "condition": 95,
+    "location": "Thư viện FPT",
+    "owner": {
+      "name": "Đức Anh",
+      "rating": 4.7,
+      "university": "FPT"
+    },
+    "wantedItem": "Sách chuyên ngành",
+    "image": "images/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Giày slip-on kẻ caro",
+    "category": "Quần áo/Phụ kiện",
+    "condition": 98,
+    "location": "KTX Khu B – Ngoại Thương",
+    "owner": {
+      "name": "Hoàng Nam",
+      "rating": 4.8,
+      "university": "Ngoại Thương"
+    },
+    "wantedItem": "Áo khoác",
+    "image": "images/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Kệ để giày gỗ 3 tầng",
+    "category": "Đồ KTX",
+    "condition": 90,
+    "location": "KTX Mễ Trì – Quốc Gia",
+    "owner": {
+      "name": "Quang Huy",
+      "rating": 4.8,
+      "university": "Quốc Gia"
+    },
+    "wantedItem": "Quạt hoặc nồi cơm",
+    "image": "images/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Máy xay sinh tố",
+    "category": "Đồ điện tử",
+    "condition": 95,
+    "location": "KTX Kinh tế Quốc dân",
+    "owner": {
+      "name": "Thu Hà",
+      "rating": 5,
+      "university": "Kinh tế Quốc dân"
+    },
+    "wantedItem": "Nồi cơm điện",
+    "image": "images/8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Giáo trình Kinh tế chính trị Mác–Lênin",
+    "category": "Sách vở",
+    "condition": 90,
+    "location": "Thư viện FPT",
+    "owner": {
+      "name": "Đức Anh",
+      "rating": 4.7,
+      "university": "FPT"
+    },
+    "wantedItem": "Giáo trình Triết học",
+    "image": "images/9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Nồi cơm điện",
+    "category": "Đồ điện tử",
+    "condition": 85,
+    "location": "KTX Khu A – Bách Khoa",
+    "owner": {
+      "name": "Minh Anh",
+      "rating": 4.9,
+      "university": "Bách Khoa"
+    },
+    "wantedItem": "Máy xay sinh tố",
+    "image": "images/10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Combo sách cũ 20 cuốn",
+    "category": "Sách vở",
+    "condition": 75,
+    "location": "Thư viện Kinh tế Quốc dân",
+    "owner": {
+      "name": "Thu Hà",
+      "rating": 5,
+      "university": "Kinh tế Quốc dân"
+    },
+    "wantedItem": "Đồ KTX",
+    "image": "images/11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Quần short bò rách",
+    "category": "Quần áo/Phụ kiện",
+    "condition": 90,
+    "location": "Cổng Y Hà Nội",
+    "owner": {
+      "name": "Lan Chi",
+      "rating": 4.9,
+      "university": "Y Hà Nội"
+    },
+    "wantedItem": "Váy",
+    "image": "images/12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Quạt đứng Senko",
+    "category": "Đồ KTX",
+    "condition": 85,
+    "location": "KTX Khu A – Bách Khoa",
+    "owner": {
+      "name": "Bạn",
+      "university": "Bách Khoa"
+    },
+    "wantedItem": "Nồi cơm điện",
+    "image": "images/13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Bộ giáo trình Triết học",
+    "category": "Sách vở",
+    "condition": 88,
+    "location": "Thư viện Ngoại Thương",
+    "owner": {
+      "name": "Bạn",
+      "university": "Bách Khoa"
+    },
+    "wantedItem": "Sách luật",
+    "image": "images/14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Váy xanh baby",
+    "category": "Quần áo/Phụ kiện",
+    "condition": 95,
+    "location": "Cổng Y Hà Nội",
+    "owner": {
+      "name": "Lan Chi",
+      "rating": 4.9,
+      "university": "Y Hà Nội"
+    },
+    "wantedItem": "Quần short bò",
+    "image": "images/15.jpg"
+  }
+]

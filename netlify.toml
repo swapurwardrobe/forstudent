@@ -1,0 +1,14 @@
+[build]
+  # Thư mục giao diện được public lên Netlify
+  publish = "frontend"
+  # Thư mục chứa serverless function bọc Express
+  functions = "netlify/functions"
+
+[functions]
+  node_bundler = "esbuild"
+
+# Mọi request /api/* được chuyển tới function "api"
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/api/:splat"
+  status = 200
